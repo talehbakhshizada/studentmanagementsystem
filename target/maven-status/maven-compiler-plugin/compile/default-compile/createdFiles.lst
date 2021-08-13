@@ -1,0 +1,10 @@
+service\menu\MenuRegisterService.class
+bean\Person.class
+utill\Menu.class
+utill\MenuUtill.class
+main\Main.class
+main\MyExceptionHandler.class
+service\menu\MenuLoginService.class
+bean\Student.class
+bean\Teacher.class
+service\menu\MenuService.class
